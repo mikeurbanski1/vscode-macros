@@ -1,0 +1,20 @@
+{
+  "vscodemacros.userMacroCommands": [
+    {
+      "name": "SplitLineToMultiLine",
+      "path": "/Users/mikeurbanski/vscode-macros/test.js"
+    },
+    {
+      "name": "ConvertStringToSingleQuotes",
+      "path": "/Users/mikeurbanski/vscode-macros/test.js"
+    },
+    {
+      "name": "ConvertStringToBackticks",
+      "path": "/Users/mikeurbanski/vscode-macros/test.js"
+    },
+    {
+      "name": "LogMessage",
+      "path": "/Users/mikeurbanski/vscode-macros/test.js"
+    }
+  ]
+}
